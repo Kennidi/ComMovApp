@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.app.unibe.teleinfoapp.MainActivity"/>
+      <point      
+        x = "296"      
+        y = "24"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.app.unibe.teleinfoapp.ChartActivity"/>
+      <point      
+        x = "1784"      
+        y = "332"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.app.unibe.teleinfoapp.MapActivity"/>
+      <point      
+        x = "2652"      
+        y = "280"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
